@@ -52,5 +52,5 @@ try {
 }
 
 Write-Host "=== Deploiement terminé ===" -ForegroundColor Green
-Write-Host "Accédez à votre application: https://webapp-cloud-lab.azurewebsites.net" -ForegroundColor Cyan
+Write-Host "Accédez à votre application: https://webapp-cloud-lab-fphxbwa7f8ejhzau.francecentral-01.azurewebsites.net" -ForegroundColor Cyan
 
