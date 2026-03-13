@@ -1,0 +1,15 @@
+{
+  "applicationUrl": "https://webapp-cloud-lab.azurewebsites.net",
+  "profiles": {
+    "Azure": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "{Scheme}://{ServerName}{PathBase}",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Production",
+        "NODE_ENV": "production"
+      }
+    }
+  }
+}
+
