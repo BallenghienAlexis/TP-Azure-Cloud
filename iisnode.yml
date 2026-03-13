@@ -1,0 +1,5 @@
+nodeProcessCommandLine: "D:\Program Files\nodejs\node.exe"
+loggingEnabled: true
+logDirectory: ..\..\LogFiles\nodejs
+watchedFiles: *.js;iisnode.yml;web.config
+
