@@ -30,5 +30,5 @@ echo "Envoi vers Azure..."
 git push azure main 2>/dev/null || git push azure master
 
 echo "=== Déploiement terminé ==="
-echo "Accédez à votre application: https://webapp-cloud-lab.azurewebsites.net"
+echo "Accédez à votre application: https://webapp-cloud-lab-fphxbwa7f8ejhzau.francecentral-01.azurewebsites.net"
 
